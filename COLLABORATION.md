@@ -1,4 +1,14 @@
-# Personal vs Organization Repositories
+# Collaboration in GitHub Repositories
 
-- Personal repositories are owned by individuals.
-- Organization repositories allow teams to assign roles, manage permissions, and audit collaboration.
+## Personal Repository
+
+- Owned by an individual.
+- All permissions controlled by the owner.
+- Less suitable for large teams.
+
+## Organization Repository
+
+- Owned by a team or organization.
+- Allows role-based access control.
+- Better for collaborative development.
+- More features for managing contributions and security.
