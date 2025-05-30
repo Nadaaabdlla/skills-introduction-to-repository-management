@@ -1,3 +1,10 @@
-# Assign ownership of files
+# CODEOWNERS file to assign responsibility
+
+# Frontend code owner
 /frontend/ @NadaTarek
-/backend/ @AnotherUser
+
+# Backend code owner
+/backend/ @YourTeammateUsername
+
+# Configuration files
+*.json @NadaTarek
